@@ -1,0 +1,26 @@
+@charset "utf-8";
+@import "normalize";
+@import "app.css";
+@import "foundation.css";
+@import "foundation-icons.css";
+
+
+
+
+
+
+
+#header {
+  background-image: url("bg1.jpg");
+  background-size: 100%;
+  min-height: 400px;
+  min-width: 1000px;
+}
+
+#header1 {
+  padding-top: 200px;
+}
+
+body {
+  color: darkgray;
+}
